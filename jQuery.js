@@ -19,7 +19,3 @@ $('.slideToggleButton').click(function() {
 $('.appendButton').click(function() {
   $('.para3').clone().appendTo(".para3");
 });
-
-$('.html').click(function() {
-      $('.html').data("foo", 52);
-    }
